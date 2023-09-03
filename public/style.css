@@ -14,5 +14,12 @@ body {
 h1{
   text-align: center;
   color:white;
-  text-shadow: 1px;
+  text-shadow: 2px 2px gray;
+}
+
+.btn{
+  border: 2px solid white;
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
 }
