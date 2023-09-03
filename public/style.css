@@ -18,14 +18,15 @@ h1{
 }
 
 .btn{
-  border: 2px solid white;
   border-radius: 10px;
   width: 75px;
   height: 75px;
   font-size: 50px;
   font-weight: 500;
-  color:black;
+  color:rgb(177, 177, 177);
+  text-shadow: rgb(223, 222, 222);
   text-align: center;
+  background: #ffffff6c;
 }
 
 .btn:hover{
@@ -47,4 +48,9 @@ h1{
   flex-direction: column;
   margin: 35px;
   width: full;
+  align-items: center;
+}
+
+.result-container{
+
 }
