@@ -52,5 +52,13 @@ h1{
 }
 
 .result-container{
-
+  background: #ffffffbd;
+  border: 1px solid black;
+  font-size: 25px;
+  max-width: 200px;
+  text-align: center;
+  margin-top: 10px;
+  padding: 10px;
+  color:white;
+  text-shadow: ;
 }
